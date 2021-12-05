@@ -1,0 +1,99 @@
+.b-example-divider{
+  padding: auto;
+  background-color: white;
+ }
+
+ 
+
+#frameSet{
+  justify-content: center;
+  width: 1118px;
+  height: 378px;
+  margin-left: 140px;
+  margin-right: 140px;
+}
+
+.row{
+  margin-left: 140px;
+  margin-right: 90px;
+}
+#seeMore{
+color: blue;
+  margin-left: 1000px;
+}
+
+#text-style{
+
+  padding: 50px;
+  font-size: 36px;
+  margin-left: 90px;
+}
+
+#pics1{
+align-content: center;
+  width: 264px;
+  height: 380px;
+  background-color: white;
+  font-family: sans-serif;
+}
+#pics2{
+  align-content: center;
+    width: 284px;
+    height: 380px;
+    background-color: white;
+    font-family: sans-serif;
+  }
+
+#pics3{
+  align-content: center;
+    width: 264px;
+    height: 380px;
+    background-color: white;
+    font-family: sans-serif;
+  }
+
+#pics4{
+  align-content: center;
+    width: 264px;
+    height: 380px;
+    background-color: white;
+    font-family: sans-serif;
+  }
+
+.addButton{
+  margin-left: 3px !important;
+ margin: 8px;
+  text-align: center;
+  border-radius: 6px;
+  width: 125px;
+  height: 32px;
+  color: #FFFFFF ;
+  letter-spacing: -0.6%;
+  font-size: 12;
+  background-color: #0A0A0A !important;
+}
+.buyButton{
+  padding-top: 5px;
+  padding-bottom: 1px;
+  border-radius: 6px;
+  background-color: #FFFFFF;
+  width: 125px;
+  height: 32px;
+  color: #0A0A0A;
+  letter-spacing: -0.6%;
+  font-size: 14;
+
+}
+
+#heart{
+  background-color: #FFFFFF;
+  color: black !important
+}
+.container5{
+  width: 1440px;
+  height: 400px;
+  padding-left: 56px;
+  letter-spacing: -0.6%;
+  background-color: #0A0A0A;
+}
+
